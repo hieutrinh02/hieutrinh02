@@ -1,9 +1,9 @@
-# Hi there, I'm Trinh Trung Hieu! 👋
+# Hi there, I'm Trịnh Trung Hiếu! 👋
 
 ## 🔐 About Me
-- 🏗️ Working on **Smart Contract Security Research**
-- 🛠️ Exploring **Ethereum Virtual Machine & DeFi Security**
-- 🔎 Focused on **deep-diving into smart contract vulnerabilities**
+- 👨‍💻 Working as a **Smart Contract Developer & Security Researcher**
+- 🛠️ Exploring **Ethereum Virtual Machine, DeFi, and Web3 development**
+- 🔎 Focused on **building and securing smart contracts**
   
 ---
-🚀 Let's secure Web3 together!
+🚀 Let's build Web3 securely!
