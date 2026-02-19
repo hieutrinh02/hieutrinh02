@@ -1,9 +1,8 @@
-# Hi there, I'm Trịnh Trung Hiếu! 👋
+# Hi, I'm Trịnh Trung Hiếu 👋
 
-## 🔐 About Me
-- 👨‍💻 Working as a **Smart Contract Developer & Security Researcher**
-- 🛠️ Exploring **Ethereum Virtual Machine, DeFi, and Web3 development**
-- 🔎 Focused on **building and securing smart contracts**
-  
----
-🚀 Let's build Web3 securely!
+Smart Contract Engineer focused on secure Web3 application development.
+
+I design and build smart contracts across multiple blockchain ecosystems,
+with a strong emphasis on security, architecture, and production-ready systems.
+
+🚀 Let’s build Web3 securely!
