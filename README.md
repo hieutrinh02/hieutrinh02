@@ -1,9 +1,12 @@
 # Hi, I'm Trịnh Trung Hiếu 👋
 
-Smart Contract Engineer focused on secure Web3 application development.
+Smart Contract Engineer specializing in secure, multi-chain smart contract and on-chain system development.
 
-I design and build smart contracts across multiple blockchain ecosystems,
-with a strong emphasis on security, architecture, and production-ready systems.
+🔗 Smart Contract Portfolio
+https://github.com/hieutrinh02/sc-dev-portfolio
+
+🔐 Security Research Portfolio
+https://github.com/hieutrinh02/sc-security-portfolio
 
 ---
 
