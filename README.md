@@ -1,7 +1,7 @@
 # Hi, I'm Trịnh Trung Hiếu
 
 I build secure smart contracts and blockchain systems across multiple blockchains:
-- Permissionless/Public blockchains: EVM, Solana, Starknet
+- Permissionless/Public blockchains: EVM, Solana, Starknet, Sui, Aptos
 - Permissioned blockchains: Hyperledger Fabric
 
 Check out my portfolio:  
