@@ -1,1 +1,3 @@
-# Hi, I'm Trịnh Trung Hiếu, a Golang Backend Engineer 👋
+# Hi, I'm Trịnh Trung Hiếu 👋
+
+I'm a Golang Backend Engineer
